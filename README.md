@@ -1,6 +1,6 @@
 # Java Foundations
 
-This repository contains my work and notes for learning Java through the University of Helsinki Java MOOC (Java Programming I & II).
+This repository contains work and notes for Rupan Prasai for learning Java through the University of Helsinki Java MOOC (Java Programming I & II).
 
 ## Structure
 
