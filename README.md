@@ -47,7 +47,8 @@ java -version
 
 ### 2. Clone repo
 ```bash
-git clone <repo-url>
+git clone https://github.com/RupanPrasai/Java-Foundations
+cd Java-Foundations
 ```
 
 ### 3. Navigate to a course section
