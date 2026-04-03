@@ -5,7 +5,7 @@ This repository contains work and notes for Rupan Prasai for learning Java throu
 ## Structure
 
 ```
-java/
+/
 ├── mooc-java-1/
 ├── mooc-java-2/
 ├── notes/
@@ -48,7 +48,6 @@ java -version
 ### 2. Clone repo
 ```bash
 git clone <repo-url>
-cd java
 ```
 
 ### 3. Navigate to a course section
