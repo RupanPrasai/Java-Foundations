@@ -74,7 +74,3 @@ cd mooc-java-1
 - Performance and JVM internals  
 
 ---
-
-## Status
-
-In progress.
