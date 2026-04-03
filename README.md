@@ -5,7 +5,7 @@ This repository contains work and notes for Rupan Prasai for learning Java throu
 ## Structure
 
 ```
-/
+Java-Foundations/
 ├── mooc-java-1/
 ├── mooc-java-2/
 ├── notes/
